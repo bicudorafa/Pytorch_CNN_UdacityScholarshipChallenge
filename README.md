@@ -18,4 +18,3 @@ The work has 5 files:
 - Image Classifier Project_rbr: The project itself
 - cat_to_name: .json file with the flowes names mapping to labels
 - Flowers: representation of the images with its names
-- model_resnet18_final: .pth file containing the final model developed for the task 
